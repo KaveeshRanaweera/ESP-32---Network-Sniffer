@@ -1,7 +1,5 @@
 # ESP32 WiFi & BLE Scanner with LCD
 
-![Project Banner](https://i.imgur.com/JKvzOYb.jpg)
-
 A portable scanner that detects WiFi networks and BLE devices, displaying information on an LCD with signal strength visualization.
 
 ## Features
